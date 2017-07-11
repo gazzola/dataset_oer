@@ -1,5 +1,5 @@
-# Aguardando
-Aguardando a publicação do artigo
+# Publicação (pendente)
+Após a publicação do artigo o dataset sera publicado.
 
 # dataset_oer
 Dataset OER Connexions
