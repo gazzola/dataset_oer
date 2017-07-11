@@ -1,7 +1,7 @@
 # dataset_oer
 Dataset OER Connexions
 
-Por favor, se for utilizar, editar, copiar ou qualquer forma o Dataset coloque as contribuiçes feitas por mim.
+Por favor, se for utilizar, editar, copiar ou qualquer forma o Dataset coloque as contribuições feitas por mim.
 Murilo Gleyson Gazzola (GAZZOLA M., 2017)
 
 @misc{Murilo17,
