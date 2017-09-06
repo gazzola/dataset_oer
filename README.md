@@ -25,7 +25,7 @@ Permitido a utilização do dataset apenas se algumas das referências forem cit
 ```
 
 
-# ou
+### ou
 
 ```
 @misc{MuriloDataOER17,
