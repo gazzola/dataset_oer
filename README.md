@@ -21,28 +21,20 @@ Permitido a utilização do dataset apenas se algumas das referências forem cit
   school={Universidade de S{\~a}o Paulo (USP)},
     note = {Acesso em: 2017-04-17}
   
-}```
+}
+```
 
 
-ou
+# ou
 
-```@misc{MuriloDataOER17,
+```
+@misc{MuriloDataOER17,
   author = {GAZZOLA, Murilo},
   title = {Dataset OER},
   year = {2017},
   publisher = {GitHub},
   journal = {GitHub repository},
   howpublished = {\url{https://github.com/gazzola/dataset_oer}},
-}```
-
-### Bibtex
-
-```
-@inproceedings{nips15_hermann,
-author = {Karl Moritz Hermann and Tom\'a\v{s} Ko\v{c}isk\'y and Edward Grefenstette and Lasse Espeholt and Will Kay and Mustafa Suleyman and Phil Blunsom},
-title = {Teaching Machines to Read and Comprehend},
-url = {http://arxiv.org/abs/1506.03340},
-booktitle = "Advances in Neural Information Processing Systems (NIPS)",
-year = "2015",
 }
 ```
+
