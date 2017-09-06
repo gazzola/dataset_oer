@@ -10,6 +10,13 @@ Murilo Gleyson Gazzola (GAZZOLA M., 2017)
 (Copie e cole no .bib)
 # BibTex
 Permitido a utilização do dataset apenas se algumas das referências forem citadas:
+```
+@inproceedings{gazzola2017,
+AGUARDANDO PUBLICAÇÃO
+}
+```
+
+ou
 
 ```
 @inproceedings{gazzola2015,
