@@ -1,7 +1,7 @@
 # MetaQualityNLP
 Por favor, se for utilizar, editar, copiar ou qualquer forma o dataset/corpus cite a fonte.
 
-Obs.: Essa é uma versão do corpus atualizada, onde separamos em 2 partes: small data e versão completa de dados´´
+**Obs.:** Essa é uma versão do corpus atualizada, onde separamos em 2 partes: _**small data**_ e **versão completa de dados**´´
 
 
 ## Como citar ?
