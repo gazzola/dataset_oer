@@ -5,13 +5,6 @@ Por favor, se for utilizar, editar, copiar ou qualquer forma o dataset/corpus ci
 # BibTex
 (Copie e cole no .bib)
 Permitido a utilização do dataset apenas se algumas das referências forem citadas:
-```
-@inproceedings{gazzola2017,
-AGUARDANDO PUBLICAÇÃO
-}
-```
-
-ou
 
 ```
 @inproceedings{gazzola2015,
