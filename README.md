@@ -1,14 +1,9 @@
-# Publicação (pendente)
-Após a publicação do artigo o dataset sera publicado.
+# MetaQualityNLP
+Por favor, se for utilizar, editar, copiar ou qualquer forma o dataset/corpus cite a fonte.
 
-# dataset_oer
-Dataset OER Connexions
-
-Por favor, se for utilizar, editar, copiar ou qualquer forma o Dataset coloque as contribuições feitas por mim.
-Murilo Gleyson Gazzola (GAZZOLA M., 2017)
-
-(Copie e cole no .bib)
+## Latex
 # BibTex
+(Copie e cole no .bib)
 Permitido a utilização do dataset apenas se algumas das referências forem citadas:
 ```
 @inproceedings{gazzola2017,
